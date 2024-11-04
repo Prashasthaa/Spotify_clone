@@ -17,4 +17,11 @@ body{
     background-color: #000;
     margin-right: 0.5rem;
 }
-
+.main-content {
+    background-color: blue;
+    flex: 1;
+    border-radius: 1rem;
+    overflow: auto;
+    background-color: #121212;
+    padding: 0 1.5rem 0 1.5rem;
+}
