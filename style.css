@@ -106,6 +106,15 @@ a{
     margin: 0.75rem 0 1.75rem 0;
     padding: 0.75rem 1rem;
 }
+.box-p1 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.box-p2 {
+    font-size: 0.85rem;
+    opacity: 0.9;
+}
 
 
 
