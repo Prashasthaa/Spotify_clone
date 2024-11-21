@@ -115,6 +115,16 @@ a{
     font-size: 0.85rem;
     opacity: 0.9;
 }
+.badge{
+    background-color: white;
+    border: none;
+    border-radius: 100px;
+    padding: 0.25rem 1rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    height: 2rem;
+    width: fit-content;
+}
 
 
 
