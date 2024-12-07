@@ -202,3 +202,10 @@ a{
     justify-content: space-between;
     align-items: center;
 }
+.album {
+    width: 15%;
+  display: flex;
+  justify-content: space-between;
+    align-items: center;
+    padding-right: 200px;
+}
