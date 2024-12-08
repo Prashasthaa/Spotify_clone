@@ -209,3 +209,7 @@ a{
     align-items: center;
     padding-right: 200px;
 }
+.song-img{
+    height: 3.5rem;
+    width: 3.5rem;
+}
