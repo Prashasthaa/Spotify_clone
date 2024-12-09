@@ -213,3 +213,17 @@ a{
     height: 3.5rem;
     width: 3.5rem;
 }
+.song-details {
+    text-align: left;
+    
+   
+}  
+
+.song-name{
+    height: 1.5px;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    opacity: 1;
+    font-weight: 600;
+    font-size: 1rem;
+}
