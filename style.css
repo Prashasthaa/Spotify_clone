@@ -233,3 +233,15 @@ a{
     padding-bottom: 1rem;
     font-size: 0.7rem;
 }
+.player {
+    width: 55%;
+    
+}
+
+
+
+.player-controls{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
