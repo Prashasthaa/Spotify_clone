@@ -288,3 +288,8 @@ a{
     justify-content: space-evenly;
     
 }
+.control-icon{
+    opacity: 0.7;
+    height: 1rem;
+    width: 1rem;
+}
