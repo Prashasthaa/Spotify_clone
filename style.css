@@ -293,3 +293,8 @@ a{
     height: 1rem;
     width: 1rem;
 }
+.volume {
+    cursor: pointer;
+    appearance: none;
+    background-color: transparent;
+}
