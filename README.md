@@ -20,6 +20,11 @@ A sleek and responsive **Spotify-inspired music player UI** built using HTML, CS
 - **CSS3**
 ---
 
+## 🖼️ Preview
+
+![Spotify Clone Screenshot](./spotify.png)
+
+---
 
 
 
