@@ -14,13 +14,6 @@ A sleek and responsive **Spotify-inspired music player UI** built using HTML, CS
 
 ---
 
-## 🖼️ Preview
-
-![Spotify Clone Screenshot](./screenshot.png)
-<sub>_(Add a real screenshot named `screenshot.png` or change the filename accordingly)_</sub>
-
----
-
 ## 🛠️ Built With
 
 - **HTML5**
